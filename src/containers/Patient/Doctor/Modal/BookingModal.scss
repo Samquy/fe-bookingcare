@@ -1,0 +1,17 @@
+.booking-modal-container {
+    // width: 85% !important;
+    // top: 7%;
+
+    .modal-header {
+        button {
+            border: none;
+            background-color: transparent !important;
+            font-size: 35px;
+        }
+    }
+
+    .booking-modal-body {
+        height: 100%;
+        padding: 15px;
+    }
+}

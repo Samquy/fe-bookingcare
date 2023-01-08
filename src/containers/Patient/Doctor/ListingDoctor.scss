@@ -1,0 +1,21 @@
+.listing-container-dr {
+    margin: 50px 140px;
+
+    .listing-content {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+
+        .image-dr {
+            width: 250px !important;
+            height: 200px !important;
+            background-position: center center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            // background: center center no-repeat;
+            cursor: pointer;
+        }
+    }
+
+
+}

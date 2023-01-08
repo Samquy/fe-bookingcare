@@ -1,0 +1,43 @@
+.manage-schedule-container {
+    .s-m-title {
+        text-transform: uppercase;
+        margin-top: 15px;
+        margin-bottom: 15px;
+        font-weight: 600;
+        font-size: 17px;
+        text-align: center;
+    }
+
+    .pick-hour-container {
+        padding-top: 20px;
+        padding-bottom: 20px;
+        display: flex;
+        gap: 20px;
+        flex-wrap: wrap;
+
+
+        button {
+            padding: 5px 15px;
+            border: 1px solid gray;
+            background: gainsboro;
+        }
+    }
+
+    .btn-schedule {
+        &.active {
+            background-color: orangered;
+        }
+    }
+
+    .btn-save-schedule {
+        margin-top: 20px;
+    }
+
+    .preview-image {
+        border: 1px solid gray;
+        height: 80px;
+        width: 100%;
+        background: center center no-repeat;
+        background-size: contain;
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "headerhomepage": {
+        "speciality": "Speciality",
+        "searchdoctor": "Find doctor by speciality",
+        "health-facility": "Health facilities",
+        "select-room": "Choose clinic",
+        "doctor": "Doctor",
+        "select-doctor": "Choose your best doctor",
+        "fee": "Package Care",
+        "health-check": "General health check",
+        "support": "Support",
+        "welcome": "Welcome,"
+    },
+    "banner": {
+        "title1": "MEDICAL PLATFORM",
+        "title2": "COMPREHENSIVE HEALTH CARE",
+        "icon1": "Specialty Health Checkup",
+        "icon2": "Remote Health Check",
+        "icon3": "General Health Check",
+        "icon4": "Medical Tests",
+        "icon5": "Mental health",
+        "icon6": "Dental health check"
+    },
+    "common": {
+        "add": "Add",
+        "edit": "Edit",
+        "delete": "Delete",
+        "decentralize": "Decentralize",
+        "close": "Close",
+        "save": "Save",
+        "refresh": "Refresh",
+        "accept": "Accept",
+        "confirm": "Confirm",
+        "confirm-this-task": "Are you sure to process this task?",
+        "fail-to-load-data": "Fail to load data",
+        "unknown-error": "There was an error",
+        "internal-server-error": "Internal server error",
+        "bad-request": "Bad request",
+        "forbiden-request": "Invalid input data",
+        "fail-to-load-all-code": "Fail to load data from allcode",
+        "sum": "Sum",
+        "date-range-invalid": "Date range invalid"
+    },
+    "menu": {
+        "admin": {
+            "manage-user": "Manage User",
+            "manage-doctor": "Manage Doctor",
+            "manage-admin": "Manage Admin",
+            "CRUD": "CRUD User",
+            "CRUD-REDUX": "CRUD REDUX",
+            "manage-clinic": "Manage Clinic",
+            "clinic": "Clinic",
+            "manage-specialty": "Manage Specialty",
+            "specialty": "Specialty",
+            "manage-handbook": "Manage Handbook",
+            "handbook": "Handbook",
+            "parkage": "Parkage",
+            "manage-parkage": "Manage Parkage",
+            "manage-parkage-patient": "Manage patient of Parkage"
+        },
+        "doctor": {
+            "manage-schedule": "Manage Doctor Schedule",
+            "manage-patient": "Manage Doctor Patient"
+        }
+    },
+    "manage-user": {
+        "add": "Add new user",
+        "email": "email",
+        "password": "Password",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "phonenumber": "Phone Number",
+        "address": "Address",
+        "gender": "Gender",
+        "position": "Position",
+        "roleid": "RoleID",
+        "image": "Image",
+        "edit": "UPDATE",
+        "save": "SAVE"
+    },
+    "homepage": {
+        "outstanding-doctor": "Outstanding Doctor",
+        "more-info": "See More",
+        "specialty-popular": "Popular speciality",
+        "select": "Choose",
+        "handbook": "Handbook"
+    },
+    "manage-schedule": {
+        "title": "Manage doctor examnition plan",
+        "choose-doctor": "Choose Doctor",
+        "choose-date": "Choose Date",
+        "save": "Save Info"
+    },
+    "patient": {
+        "doctor-detail": {
+            "schedule": "Schedule",
+            "no-schedule": "Sorry, Does not have any Appoinment",
+            "choose": "Choose",
+            "book-free": "Booking for free"
+        },
+        "extra-info-doctor": {
+            "text-address": "Address of Examnation",
+            "price": "PRICE",
+            "see-more": "See More",
+            "payment": "Patient can Pay in :",
+            "hide": "Hide This"
+        }
+    },
+    "admin": {
+        "manage-doctor": {
+            "title": "Create Doctor info",
+            "select-doctor": "Choose your Doctor",
+            "intro": "Introduction",
+            "add": "Add new Info",
+            "save": "Save Info",
+            "price": "Price",
+            "payment": "Payment",
+            "province": "Province",
+            "nameClinic": "Clinic name",
+            "addressClinic": "Clinic Address",
+            "note": "note",
+            "specialty": "Choose Specialty",
+            "select-clinic": "Choose Clinic",
+            "select-clinic-a": "Choose Clinic",
+            "name": "Name Parkage",
+            "parkage": "More info about Parkage",
+            "category": "Category",
+            "address": "Address"
+        }
+    },
+    "booking-modal": {
+        "title": "Booking Care Appointment",
+        "price": "PRICE",
+        "fullname": "Fullname",
+        "gender": "Gender",
+        "birthday": "Birthday",
+        "address": "Address",
+        "phonenumber": "PhoneNumber",
+        "bookingfree": "Booking free",
+        "reasonbooking": "Reason for medical examnition",
+        "btnConfirm": "Confirm",
+        "btncancel": "Cancel"
+    },
+    "parkage": {
+        "title": "Parkage Care",
+        "price": "Price"
+    }
+}

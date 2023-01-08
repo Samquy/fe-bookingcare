@@ -1,0 +1,21 @@
+.listing-container {
+    margin: 30px 100px;
+
+    .listing-content {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+
+        .image {
+            width: 278px !important;
+            height: 150px !important;
+
+            background-size: cover !important;
+            background-repeat: no-repeat !important;
+            background-position: center !important;
+            cursor: pointer;
+        }
+    }
+
+
+}
