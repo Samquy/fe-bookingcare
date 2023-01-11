@@ -114,8 +114,8 @@ class ManageSchedule extends Component {
         let res = await saveBulkScheduleDoctor({
             arrSchedule: result,
             doctorId: selectedDoctor.value,
-            formatedDate: formatedDate
-            // formatedDate: '' + formatedDate
+//             formatedDate: formatedDate
+            formatedDate: '' + formatedDate
         })
         if (res && res.errCode === 0) {
             if (language === LANGUAGE.VI) {
