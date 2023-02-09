@@ -74,7 +74,6 @@ class ManageParkage extends Component {
                 listSpecialty: dataSpecialty,
                 listClinic: dataClinic,
             })
-            console.log('check cat ', listCategory)
         }
     }
     buildDataInputSelect = (inputData, type) => {
